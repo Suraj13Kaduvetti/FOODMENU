@@ -1,0 +1,6 @@
+Butter Chicken: img/bc.jpg: desc/bc_desc.txt
+Mutton Kheema: img/mk.jpg: desc/mk_desc.txt
+Fish Fry: img/ff.jpg: desc/ff_desc.txt
+Tandoori Lamb Chop: img/lc.jpg: desc/lc_desc.txt
+Nihari Gosht: img/nn.jpg: desc/nn_desc.txt
+Fish Curry: img/fc.jpg: desc/fc_desc.txt

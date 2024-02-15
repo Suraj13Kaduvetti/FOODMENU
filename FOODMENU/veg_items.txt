@@ -1,0 +1,6 @@
+Palak Paneer: img/pp.jpg: desc/pp_desc.txt
+Chana Masala: img/cm.jpg: desc/cm_desc.txt
+Dal Makhani: img/dm.jpg: desc/dm_desc.txt
+Dal Tadka: img/dt.jpg: desc/dt_desc.txt
+Pav Bhaji: img/pb.jpg: desc/pb_desc.txt
+Vegetable Biryani: img/vb.jpg: desc/vb_desc.txt

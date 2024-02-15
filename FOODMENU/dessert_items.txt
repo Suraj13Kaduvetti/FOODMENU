@@ -1,0 +1,6 @@
+Caramel Custard: img/cc.jpg: desc/cc_desc.txt
+Ice Cream: img/ic.jpg: desc/ic_desc.txt
+Rice Pudding: img/rp.jpg: desc/rp_desc.txt
+Gulab Jamun: img/gj.jpg: desc/gj_desc.txt
+Gajar Ka Halwa: img/gh.jpg: desc/gh_desc.txt
+RasMalai: img/rm.jpg: desc/rm_desc.txt
